@@ -14,7 +14,7 @@ Este repositório foi criado para uma apresentação de trabalho para a faculdad
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/WillianMedeiros14/gofinances.git
+$ git clone https://github.com/WillianMedeiros14/Iterator.git
 
 # Entre na pasta do projeto.
 $ cd gofinances
