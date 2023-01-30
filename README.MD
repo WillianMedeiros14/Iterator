@@ -17,7 +17,7 @@ Este repositório foi criado para uma apresentação de trabalho para a faculdad
 $ git clone https://github.com/WillianMedeiros14/Iterator.git
 
 # Entre na pasta do projeto.
-$ cd gofinances
+$ cd Iterator
 
 # Instale as dependências
 $ yarn install
